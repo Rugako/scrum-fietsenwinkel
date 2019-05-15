@@ -26,5 +26,6 @@ class Database
         mysqli_select_db($link,$dbname)or die ("Could not open the db'$dbname'");
 
         $test_query = "SHOW TABLES FROM  $dbname";
+        $result= mysqli_query($link,$test_query);
     }
 }
