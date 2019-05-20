@@ -155,6 +155,7 @@
     /*    end css footer*/
 </style>
 <body>
+<div containter>
 
 <footer class="container-fluid bg-grey py-5">
     <div class="container">
@@ -223,5 +224,6 @@
     </div>
     </div>
 </footer>
+</div>
 </body>
 </html>
