@@ -1,10 +1,10 @@
-<?php
-?>
 <html>
 <body>
 <!--adds the header to the page-->
 <?php include 'public_html/Header.php'; ?>
-
+<div>
+    <p>hello</p>
+</div>
 
 
 
