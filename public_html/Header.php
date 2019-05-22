@@ -224,36 +224,38 @@
     </style>
 </head>
 <body>
-<header id="header">
-    <div class="container">
+<header>
+    <div id="header">
         <div class="container">
-            <div id="logo" class="pull-left">
-                <h1><i class="fas fa-bicycle"></i><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-                <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+            <div class="container">
+                <div id="logo" class="pull-left">
+                    <h1><i class="fas fa-bicycle"></i><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
+                    <!-- Uncomment below if you prefer to use an image logo -->
+                    <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+                </div>
             </div>
-        </div>
-        <div class="search-container">
-            <form action="#">
-                <input type="text" placeholder="Search.." name="search">
-                <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-        </div>
-        <nav id="nav-menu-container">
-            <ul class="nav-menu">
-                <li class="menu-active"><a href="">Log in</a></li>
-                <li><a href="">Mannen fietsen</a></li>
-                <li><a href="">Vrouwen fietsen</a></li>
-                <li><a href="">Kinder fietsen</a></li>
-                <li><a href="">Account</a></li>
-                <li><a href="">Over ons</a></li>
-                <li><a href="">Niewsbrief</a></li>
-            </ul>
-        </nav><!-- #nav-menu-container -->
+            <div class="search-container">
+                <form action="#">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </form>
+            </div>
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active"><a href="">Log in</a></li>
+                    <li><a href="">Mannen fietsen</a></li>
+                    <li><a href="">Vrouwen fietsen</a></li>
+                    <li><a href="">Kinder fietsen</a></li>
+                    <li><a href="">Account</a></li>
+                    <li><a href="">Over ons</a></li>
+                    <li><a href="">Niewsbrief</a></li>
+                </ul>
+            </nav><!-- #nav-menu-container -->
 
 
-    </div>
-</header><!-- #header -->
+        </div>
+    </div><!-- #header -->
+</header>
 
 
 </body>

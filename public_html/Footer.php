@@ -155,75 +155,80 @@
     /*    end css footer*/
 </style>
 <body>
-<div containter>
+<footer>
+    <div containter>
 
-<footer class="container-fluid bg-grey py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-md-6 ">
-                        <div class="logo-part">
-                            <h1><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
-                            <p>N315 517002 AG Doetinchem</p>
-                            <p>Uw bedrijf voor nieuwe fietsen</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 px-4">
-                        <h6>Over ons</h6>
-                        <p>wij zijn actief sins 1932</p>
-                        <a href="#" class="btn-footer"> More Info </a><br>
-                        <a href="#" class="btn-footer"> Contact Us</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-md-3 px-2">
-                        <h6> Help ons</h6>
-                        <div class="row ">
-                            <div class="col-md-6">
-                                <ul>
-                                    <li><a href="#"> Home</a></li>
-                                    <li><a href="#"> About</a></li>
-                                    <li><a href="#"> Service</a></li>
-                                    <li><a href="#"> Team</a></li>
-                                    <li><a href="#"> Help</a></li>
-                                    <li><a href="#"> Contact</a></li>
-                                </ul>
+        <div>
+
+            <div class="container-fluid bg-grey py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-md-6 ">
+                                    <div class="logo-part">
+                                        <h1><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
+                                        <p>N315 517002 AG Doetinchem</p>
+                                        <p>Uw bedrijf voor nieuwe fietsen</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 px-4">
+                                    <h6>Over ons</h6>
+                                    <p>wij zijn actief sins 1932</p>
+                                    <a href="#" class="btn-footer"> More Info </a><br>
+                                    <a href="#" class="btn-footer"> Contact Us</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3 px-2">
-                        <h6> categorieën</h6>
-                        <div class="row ">
-                            <div class="col-md-6">
-                                <ul>
-                                    <li><a href="#"> Mannen</a></li>
-                                    <li><a href="#"> Vrouwen</a></li>
-                                    <li><a href="#"> Kinder</a></li>
-                                </ul>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-md-3 px-2">
+                                    <h6> Help ons</h6>
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <ul>
+                                                <li><a href="#"> Home</a></li>
+                                                <li><a href="#"> About</a></li>
+                                                <li><a href="#"> Service</a></li>
+                                                <li><a href="#"> Team</a></li>
+                                                <li><a href="#"> Help</a></li>
+                                                <li><a href="#"> Contact</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 px-2">
+                                    <h6> categorieën</h6>
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <ul>
+                                                <li><a href="#"> Mannen</a></li>
+                                                <li><a href="#"> Vrouwen</a></li>
+                                                <li><a href="#"> Kinder</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 ">
+                                    <h6> Newsletter</h6>
+                                    <div class="social">
+                                        <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                        <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                    </div>
+                                    <form class="form-footer my-3">
+                                        <input type="text" placeholder="search here...." name="search">
+                                        <input type="button" value="Go">
+                                    </form>
+                                    <p>That's technology limitation of LCD monitors</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-6 ">
-                        <h6> Newsletter</h6>
-                        <div class="social">
-                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                        </div>
-                        <form class="form-footer my-3">
-                            <input type="text" placeholder="search here...." name="search">
-                            <input type="button" value="Go">
-                        </form>
-                        <p>That's technology limitation of LCD monitors</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+
     </div>
 </footer>
-</div>
 </body>
 </html>
