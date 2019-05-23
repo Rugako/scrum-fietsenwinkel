@@ -2,4 +2,4 @@
 deployment:
   tasks:
   - export DEPLOYPATH=/home/rkloppenburg/public_html/
-  - /bin/cp -R public_html/* $DEPLOYPATH
+  - /bin/cp -R body/* $DEPLOYPATH

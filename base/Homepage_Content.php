@@ -10,7 +10,7 @@
 <html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Content</title>
+    <title>HomePage</title>
     <base target="_self">
     <meta name="description" content="How to make a multi item carousel with cards in Bootstrap 4.">
     <meta name="google" value="notranslate">
