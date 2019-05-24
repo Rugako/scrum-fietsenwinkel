@@ -32,7 +32,7 @@
                 <div class="row">
                     <div class="col-md-6 ">
                         <div class="logo-part">
-                            <h1><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
+                            <h1><a href="#intro" class="scrollto">My_Bicycle</a></h1>
                             <p>N315 517002 AG Doetinchem</p>
                             <p>Uw bedrijf voor nieuwe fietsen</p>
                         </div>

@@ -1,4 +1,4 @@
 <?php
-include("base/index.php");
+include("base/homePage.php");
 
 ?>

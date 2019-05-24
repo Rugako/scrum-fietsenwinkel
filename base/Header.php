@@ -49,7 +49,7 @@
     <div class="container">
         <div class="container">
             <div id="logo" class="pull-left">
-                <h1> <i class="fas fa-bicycle"></i><a href="#intro" class="scrollto">Haas_Bicycle</a></h1>
+                <h1> <i class="fas fa-bicycle"></i><a href="#intro" class="scrollto">My_Bicycle</a></h1>
                 <!-- Uncomment below if you prefer to use an image logo -->
                 <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
             </div>
