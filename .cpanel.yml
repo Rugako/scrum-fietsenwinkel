@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-  - export DEPLOYPATH=/home/rkloppenburg/base/
-  - /bin/cp -R base/* $DEPLOYPATH
+  - export DEPLOYPATH=/home/rkloppenburg/public_html/
+  - /bin/cp -R public_html/* $DEPLOYPATH
