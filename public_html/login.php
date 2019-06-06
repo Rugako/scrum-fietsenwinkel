@@ -1,4 +1,6 @@
-
+<?php
+include ("base/Header.php");
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,8 +9,10 @@
     <title>Sign Up</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
-        body{ font: 14px sans-serif; }
-        .wrapper{ width: 350px; padding: 20px; }
+        body{ font: 14px sans-serif;
+        width: 100%;}
+
+        .wrapper{ width: 500px; padding: 40px; margin: auto; padding-bottom: 8% ;padding-top: 7%;}
     </style>
 </head>
 <body>
@@ -68,4 +72,6 @@ if(isset($_POST['Submit']))
 
 
 }
+include ("base/Footer.php");
+
 

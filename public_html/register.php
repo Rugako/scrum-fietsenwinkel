@@ -1,6 +1,6 @@
 <?php
 include ("Database.php");
-
+include ("base/Header.php");
 
 ?>
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ include ("Database.php");
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
         body{ font: 14px sans-serif; }
-        .wrapper{ width: 350px; padding: 20px; }
+        .wrapper{ width: 350px; padding: 10px; margin:auto; }
     </style>
 </head>
 <body>
@@ -131,3 +131,4 @@ if(isset( $_POST['Submit']))
 
 }
 
+include ("base/Footer.php");
